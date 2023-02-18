@@ -1,0 +1,55 @@
+textarea{
+  resize: none;
+}
+body{
+    font-family: 'Arsenal', sans-serif;
+}
+#message{
+    height: 250px;
+    overflow-y: scroll;
+    
+}
+.card{
+    margin-bottom: 3px;;
+}
+h1{
+    margin-bottom: 3px;;
+}
+.chat-message{
+    color:#155724;
+    float: right;
+ background-color: #d4edda;
+    margin: 5px;
+    border: 1px solid #d4edda;
+    padding-left: 4px;
+    padding-right: 4px;;
+    border-radius: 5px;
+}
+.clear{
+clear: both;
+}
+
+
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px #458500; 
+    border-radius: 5px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #458500; 
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #458500; 
+  }
+
+  

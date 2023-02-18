@@ -1,0 +1,189 @@
+/*{
+	-moz-box-sizing: border-box;;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+/*
+font-family: 'Lobster', cursive;
+hover. color :#f38a00
+*/
+
+
+
+.save_fullname_div{
+  display: none;
+}
+
+.btn-edit_div {
+	position: relative ;
+	right: -30px;
+
+}
+
+/* {
+box-sizing: border-box;
+} */
+
+.container{
+  padding: 30px;
+}
+/*
+.slider {
+  width: 100%;
+
+}
+
+.slick-slide {
+margin: 0px 20px;
+}
+
+.slick-slide img {
+width: 100%;
+}
+
+.slick-prev:before,
+.slick-next:before {
+color: black;
+}
+
+
+.slick-slide {
+transition: all ease-in-out .3s;
+opacity: .2;
+}
+
+.slick-active {
+opacity: .5;
+} */
+/*
+.slick-current {
+opacity: 1;
+}
+.cb_waitinorder{
+	padding: 18px;
+}
+
+.slick-initialized .slick-slide{
+border: 1px solid #eee;
+    height: 131px;
+	border-radius: 5px;
+	padding: 4px;;
+}
+.slick-dotted.slick-slider{
+	margin-bottom: 0px;
+	padding: 5px;
+}
+*/
+.card_2_top_center{
+	width:75%;
+}
+/*
+.card-header > .row{
+	color: #458500;
+}
+
+.card_body_unproved_orders {
+	background-color: #d1ecf1;
+	color: #0c5460 !important
+}
+
+.card_body_unproved_orders strong  {
+
+	color: #0c5460 !important;
+}
+
+.card_body_unproved_orders span  {
+
+	color: #0c5460 !important;
+}
+
+.card_body_unproved_orders p  {
+
+	color: #0c5460 !important;
+}
+*/
+#no_aprov_span{
+	color: #0c5460 !important;
+}
+
+#on_way_span{
+	color:	#856404;
+}
+#delevred_span{
+	color: #155724;
+
+}
+
+#returned_span{
+	color:#721c24;
+
+}
+
+
+.awaitingaction h5, p {
+	color: #0c5460!important;
+	font-weight: bold;
+}
+
+.ship_sp {
+    color: #458500;
+}
+
+.latest-user {
+	padding: 2px;
+	margin-bottom: 2px;;
+
+}
+
+.latest-user li {
+    padding: 2px 0;
+    overflow: hidden;
+}
+.latest-user .btn-danger {
+    padding: 3px 8px;
+}
+
+
+.card_adres {
+    padding-right: 11px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+}
+
+.card_adres .card-body {
+
+    padding: 2px;
+}
+
+.latest-user li:nth-child(odd) {
+    background-color: #eee;
+}
+.sucees_delete_div{
+	display: none;
+}
+.used_adres_delete_div{
+	display: none;
+}
+.something_wrong_delete_div{
+	display: none;
+}
+
+
+.car2 .card{
+  margin-bottom: 20px;
+}
+
+/*
+.supper_div_link:active {
+  display: block!important;
+	border: 1px solid red!important;
+padding: 15px;
+background: red;
+
+}*/
+
+@media(max-width:450px){
+  ..card_2_top_center{
+    width: 100% !important;l
+  }
+}

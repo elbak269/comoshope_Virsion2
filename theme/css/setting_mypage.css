@@ -1,0 +1,209 @@
+/*
+font-family: 'Lobster', cursive;
+hover. color :#f38a00
+blue #007bff ;
+green : #458500 ;
+navbra background-color :#458500
+*/
+.btn-primary{
+  background-color: #458500 !important;
+}
+@media(min-width:991px){
+  .sidebar_left p{
+    font-size: 11px;
+  }
+}
+
+@media(max-width:768px){
+  .div_else_img{
+    width: 100%;
+  }
+  .div_img{
+    margin-top: 58px !important;
+  }
+}
+@media(min-width:769px){
+  .div_else_img{
+    width: 33%;
+  }
+  .gridCheck{
+    float: none !important;
+  }
+
+  .cont_row_le {
+    margin-right: 5px;
+  }
+
+
+}
+
+
+
+@media(max-width:768px){
+  .div_uplod_img{
+    width: 100%;
+  }
+
+}
+@media(min-width:769px){
+  .div_uplod_img{
+    width: 50%;
+  }
+  .div_uplod_img_right{
+    float: right;
+  }
+}
+
+
+#btn_copy{
+padding: 8px;
+margin-left: 5px;
+}
+.btn{
+  padding: 5px;
+  color: #e9ecef;
+}
+
+.div_uplod_img{
+  text-align: center;
+}
+
+#btn_edit_page_name{
+  margin-bottom: 10px;
+}
+.span_not_pagena{
+  font-size: 10px;
+}
+
+#btn_edit_DESC{
+  margin-bottom: 10px;
+}
+
+#satus{
+  display: none;
+}
+#btn_uplade_img{
+  display: none;
+}
+
+.div_btn{
+  margin-top: 5px;
+font-weight: bold;
+}
+
+.img_have_notuploded{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  display: none;
+}
+
+.custom-file{
+  display: none;
+}
+
+.custom-file{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+label{
+  margin-bottom: 0px;
+}
+
+textarea{
+  resize: none;
+  width: 100%;
+}
+
+#img_user{
+border-radius: 50%;
+height: 75px;
+width: 75px;
+
+}
+
+.div_inputs{
+  border: 1px solid #eee;
+  padding: 5px;
+}
+.chkbxdiv{
+  float: right;
+}
+
+.div_img{
+  border: 1px solid #eee;
+  padding: 10px;
+  margin-top: 10px;
+}
+.changimg{
+  color: #007bff;
+}
+
+.div_alltime{
+width: 100%;
+background-color: #333;
+border-radius: 4px;
+padding: 10px;
+color: white;
+
+}
+
+.sidebar_left{
+  padding: 5px;
+  width: 100%;
+  border: 1px solid #eee;
+  border-radius: 4px
+}
+
+.div_alltime > p{
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+.Rewards_disponibles{
+  background-color: #856404;
+  color: #fff3cd;
+  width: 100%;
+  padding: 10px;
+  font-weight: bold;
+margin-top: 10px;
+  border-radius: 4px;
+
+}
+
+.div_disponible{
+  background-color: #155724;
+  color: #d4edda;
+  width: 100%;
+  padding: 10px;
+  font-weight: bold;
+  margin-top: 5px;
+  border-radius: 4px;
+  height: 100%;
+
+}
+
+.div_disponible > p{
+    margin-bottom: 15px;
+}
+
+.Rewards_disponibles  > p{
+  margin-bottom: 15px;
+}
+
+.FROM__SPAN , .result_from{
+  float: right;
+}
+#from_sapn{
+  font-weight: normal !important;
+  font-size: 11px;
+}
+.kep_till{
+font-weight: normal;
+font-size: 12px;
+
+}
+
+.times_spn,.amount_sp{
+font-size: 12px;
+}

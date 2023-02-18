@@ -1,0 +1,196 @@
+@media(min-width:766px){
+.comments{
+  width: 85%;
+}
+
+
+}
+.conte{
+/*background-color: #eee;*/
+padding-top: 10px;
+padding-bottom: 10px;
+
+
+
+}
+.col-div{
+  border: 1px solid #eee;
+height: 300px;
+}
+.col-div h5{
+margin-bottom: 1px;
+font-weight: bold;
+/*font-family: 'Lobster', cursive;*/
+
+}
+.img_thumn_div{
+  padding-top: 5px;
+}
+.img_slider .row {
+  width: 100%;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.img_slider .row .col {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.img_slider .row .col:first-child {
+  padding-right: 5px !important;
+}
+.img_slider .row .col:last-child {
+  padding-left: 5px !important;
+}
+
+.img_thumn_div .row .col img{
+  max-height:  119px;
+}
+
+.master_img{
+  border-radius: 1%;
+}
+
+.rating_star{
+  display: inline;
+}
+
+.shop-div{
+  /*background-color: #ccc;*/
+  padding: 10px;
+  border-radius: 2px;
+  height: 136px!important;
+
+}
+
+.shop-div select{
+  width: 70px;
+}
+
+.table-borderless{
+  margin-bottom: 0px;
+}
+
+.shop-div .col-6{
+
+}
+
+
+
+#quantity_sele{
+  margin-top: 4px;
+
+}
+
+#inlineFormCustomSelect{
+  width: 50%;
+}
+
+.shop-div .btn{
+  margin-top: 7px;
+  width: 100%;
+}
+
+.cont{
+  margin-top: 10px;
+}
+
+#readm{
+color: #007bff;
+cursor: pointer;
+}
+#redLess{
+color: #007bff;
+cursor: pointer;
+}
+
+#more_infon {
+  display: none;
+}
+
+.tabl{
+  margin-top: 20px;
+  border: 1px solid #eee;
+}
+.comments{
+  margin: 10px auto;
+  padding: 10px;
+}
+
+.comment_child{
+  border: 1px solid #eee;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.div_inf_c{
+  border: 1px solid #eee;
+}
+.img_thumn_div img{
+cursor: pointer;
+}
+
+.master_img{
+max-height: 606px;;
+}
+
+.sil_imges{
+  border-top: 1px solid rgba(0, 0, 0, 0.125);
+  padding-top: 2px;
+
+}
+
+.span {
+  font-size: 15px;
+  font-weight: bold;
+  font-family: 'Baloo Bhai', cursive;
+}
+
+.img_div_child img{
+	opacity:.6;
+	/*cursor: pointer;
+-webkit-transition: .4s ease-in-out;
+-o-transition: .4s ease-in-out;
+-moz-transition: .4s ease-in-out;
+transition: .4s ease-in-out;*/
+}
+
+.img_active {
+  opacity: 1!important;
+  border: 1px solid #458500;
+}
+
+.img_thimnals{
+height: 60px
+}
+
+.div_inf_c{
+  border:none;
+  padding-right: 3px;
+  padding-left: 3px;
+}
+
+.div_inf_c > div{
+width: 100%;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  padding-right: 5px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  height: 100%;
+}
+
+.table th, .table td {
+padding: 3px;
+}
+
+
+.drow_div_navb {
+  display: none;
+}
+
+.row_btn_it div{
+  padding: 10px;;
+}

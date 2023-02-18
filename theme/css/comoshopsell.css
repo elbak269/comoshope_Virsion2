@@ -1,0 +1,91 @@
+*{
+	-moz-box-sizing: border-box;;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+/*
+font-family: 'Lobster', cursive;
+hover. color :#f38a00
+*/
+
+body{
+font-size: 16px;
+background-color: #f5f5f5;
+font-family: 'Merriweather', serif;
+}
+
+.navbar{
+	background-color: #458500 !important;
+  margin-bottom: 8px;
+
+}
+.navbar a{
+  color: white !important;
+}
+.nav_acount_complete{
+	font-weight: bold;
+	text-align: center;
+  background-color: white;
+  padding-right:  25px;
+	padding-left: 25px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-radius: 6px
+}
+
+.form-group{
+	margin-bottom: 100px;
+}
+
+#inputGroupSelect04{
+	margin-right: 8px
+}
+.div_mobi_exi{
+	margin-top: 8px;
+}
+
+.receiveway_div{
+	margin-top: 15px;
+}
+
+.receive_input{
+	margin-top: 15px;
+}
+
+.card_visa_div{
+	margin-top: 15px;
+	border: 1px solid #ccc;
+	padding: 10px;
+}
+
+.paypal_email_div{
+	border: 1px solid #ccc;
+	margin-top: 15px;
+	padding: 10px;
+}
+
+.paypal_email_div .input-group  {
+	margin-bottom: 3px!important;
+}
+
+.btn_next{
+	margin-top: 10px;
+}
+
+.peddig_div{
+	margin-top: 22px;
+	margin-bottom: 50px;
+
+/*margin-top: 60px;
+margin-bottom: 91px;*/
+}
+.footer{
+	position: fixed;
+bottom: 0px;
+	left: 0px;
+	right: 0px;
+}
+.h5_meth_re_ber{
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
